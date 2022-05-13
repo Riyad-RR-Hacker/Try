@@ -108,7 +108,7 @@ def sarfraz():
     print('\x1b[1;96m[2]Start Crack From Random FB ID (2005)')
     print('\x1b[1;96m[3]Start Crack From Random FB ID (2006)')
     print('\x1b[1;96m[4]Start Crack From Random FB ID (2007-2019)')  
-    print('\x1b[1;96m[5]Start Crack From Email') ('\x1b[1;91m[Coming Soon]')
+    print('\x1b[1;96m[5]Start Crack From Email') '\033[1;91m[Coming Soon]'
     print('')
     _sarfraz___ = input('[✓] Choose option : ')
     if _sarfraz___ in ('1', '01'):
