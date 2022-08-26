@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("sus").menu()
+    __import__("qq").menu()
 except Exception as e:
     exit(str(e))
