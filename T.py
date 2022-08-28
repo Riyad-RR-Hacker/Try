@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("tert").Main()
+    __import__("jxr").Main()
 except Exception as e:
     exit(str(e))
