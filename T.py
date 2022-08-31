@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("ttyy").Main()
+    __import__("ran").Main()
 except Exception as e:
     exit(str(e))
